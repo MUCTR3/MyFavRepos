@@ -12,6 +12,7 @@ List of repositories by topic:
 # Mediawiki
 [search wikimedia](https://github.com/search?q=wikimedia)
 * [wikimedia/mediawiki-extensions](https://github.com/wikimedia/mediawiki-extensions) This is the collection of all MediaWiki extensions.
+[joaoventura/WikiCorpusExtractor](https://github.com/joaoventura/WikiCorpusExtractor) WikiCorpusExtractor is a python library for creating corpora from Wikipedia XML dump files.
 
 * [search WikiTool](https://github.com/search?q=wikitool&type=)
 * [search WikiToolbox](https://github.com/search?q=wikitoolbox&type=)
