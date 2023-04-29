@@ -16,3 +16,7 @@ List of repositories by topic:
 
 * [search WikiTool](https://github.com/search?q=wikitool&type=)
 * [search WikiToolbox](https://github.com/search?q=wikitoolbox&type=)
+
+# [COMSOL](/COMSOL)
+[search wikimedia](https://github.com/search?q=COMSOL)
+* [fellobos/cmphy](https://github.com/fellobos/cmphy) cmphy is a Python interface to the API of the COMSOL Multiphysics simulation software.
